@@ -4,18 +4,20 @@ using namespace std;
 
 int main() {
 	
-	int sellerName;
-	double sellerSalary, sellertotalSalary, totalSales, commission;
+	string sellerName;
+	double sellerSalary, sellerTotalSalary, totalSales, commission;
 	
 	cout.precision(2);
 	cout.setf(ios::fixed);
 	
-	cin >> sellerName >> sellerSalary >> totalSales;
+	cin >> sellerName;
+	cin >> sellerSalary;
+	cin >> totalSales;
 	
 	commission = (totalSales * 0.15);
-	sellertotalSalary = (sellerSalary + commission);
+	sellerTotalSalary = (sellerSalary + commission);
 	
-	cout << "TOTAL = R$ " << sellertotalSalary << endl;
+	cout << "TOTAL = R$ " << sellerTotalSalary << endl;
 	
 	return 0;
 }

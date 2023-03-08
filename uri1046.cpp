@@ -7,7 +7,8 @@ int main(){
     int a,b,time=0;
     cin>>a>>b;
 
-    if(a<b){
+    
+if(a<b){
         time=b-a;
         cout<<"O JOGO DUROU "<<time<<" HORA(S)"<<endl;
     }else if(a>b){

@@ -1,4 +1,5 @@
 Uri 1070 Six odd Numbers C++ Beecrowd
+A second commit to distinguish file from 1071 12 april 2023
 
 #include <bits/stdc++.h>
 using namespace std;

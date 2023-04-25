@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+// never again will I have to do this
 int main() {
 	
 	int product1Code, product2Code;

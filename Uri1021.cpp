@@ -2,6 +2,8 @@
 
 using namespace std;
 
+//yes, yet another git hub space .... what a criminal!
+
 int main(){
     double N;
     int inteiro, aux, aux1;

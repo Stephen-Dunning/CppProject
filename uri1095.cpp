@@ -14,3 +14,6 @@ int main(){
     }
     return 0;
 }
+
+
+It is fascinating how the for loop is completeçly flexible.

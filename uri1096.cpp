@@ -14,3 +14,6 @@ int main(){
     }
     return 0;
 }
+
+
+it seems absurd to say but this is so simplr it is a joy to behold.
